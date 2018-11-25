@@ -1,0 +1,218 @@
+﻿@using Microsoft.AspNet.Identity
+@model IEnumerable<Services.Models.Service>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+<link href="~/Content/Site.css" rel="stylesheet" />
+<link rel="stylesheet" href="styles.css">
+@if (Request.IsAuthenticated)
+{
+
+    <br />
+    <br />
+    <br />
+    <div class="serve">
+        <h1 class="text-center"> Welcome to Selu Nexus ... Request and Offer Services </h1>
+        <hr />
+
+        <a href="@Url.Action("Requested", "Services")" class="btn btn-block btn-warning" style="font-size: 25px;"><i class="fas fa-plus"></i> Requested Serivces</a>
+        <a href="@Url.Action("Offered", "Services")" class="btn btn-block btn-warning" style="font-size: 25px;"><i class="fas fa-plus"></i> Offered Services</a>
+        
+       
+        <a href="@Url.Action("MydashBoard", "Services")" class="btn btn-block btn-warning" style="font-size: 25px;"><i class="fas fa-plus"></i> MydashBoard</a>
+    </div>
+
+}
+else
+{
+    <br />
+    <br />
+    <br />
+    <div class="w3-content w3-display-container" style="max-width:100%">
+        <img class="mySlides" src="https://www.experience.com/wp-content/uploads/2017/08/university-study-group_4460x4460-e1501786085130.jpg" style="width:100%">
+        <img class="mySlides" src="http://1.bp.blogspot.com/-EKWL7DYvcY4/UnVOZiE9MAI/AAAAAAAAB0E/zMJGXENoiBU/s1600/h.jpg" style="width:100%">
+        <img class="mySlides" src="https://www.memphis.edu/multiculturalaffairs/images/internationalstudents.jpg" style="width:100%">
+        <div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
+            <div class="w3-left w3-hover-text-khaki" onclick="plusDivs(-1)">&#10094;</div>
+            <div class="w3-right w3-hover-text-khaki" onclick="plusDivs(1)">&#10095;</div>
+            <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(1)"></span>
+            <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(2)"></span>
+            <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(3)"></span>
+        </div>
+    </div>
+    <br />
+    <br />
+    <section class="features-icons text-center first">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
+                        <i class="fa fa-hand-paper" style="font-size:60px;color:lightblue;text-shadow:2px 2px 4px #000000;"></i>
+                        <br />
+                        <h3>Need Help?</h3>
+                        <p class="lead mb-0">Just post for any help you need.</p>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
+                        <i class="fa fa-heart" style="font-size:60px;color:lightblue;text-shadow:2px 2px 4px #000000;"></i>
+                        <br />
+                        <h3>Want to help someone?</h3>
+                        <p class="lead mb-0">Just post that you are willing to assist with things you want to.</p>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="features-icons-item mx-auto mb-0 mb-lg-3">
+                        <i class="fa fa-registered" style="font-size:60px;color:lightblue;text-shadow:2px 2px 4px #000000;"></i>
+                        <br />
+                        <h3>Easy to Use</h3>
+                        <p class="lead mb-0">Just register and start to explore the site.</p>
+                        <br />
+                        <a href="@Url.Action("Register", "Account")" class="btn btn-info">
+                            <i class="fas fa-user-plus"></i> Register
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <br />
+    <div class="row second">
+        <div class="col-lg-6 text-white showcase-img">
+            <img class="dub" src="https://ak7.picdn.net/shutterstock/videos/30962467/thumb/1.jpg" style="width: 100%" style="height: 100%" />
+
+        </div>
+        <div class="col-lg-6 my-auto showcase-text ">
+            <h5>SLU Nexus</h5>
+            <p class="lead mb-0">Knowing how hard it can get when you need someone and there is no one there to help, We created a platform for you to explore the campus to get help from individuals from your college. </p>
+        </div>
+    </div>
+    <br />
+    <div class="row second">
+        <div class="col-lg-6 order-lg-1 my-auto showcase-text">
+            <h5>Offer or Request Help.</h5>
+            <p class="lead mb-0">Using this website you can ask people near you for help with anything you want be it tutoring or even conducting an event.</p>
+        </div>
+        <div class="col-lg-6 order-lg-2 text-white showcase-img">
+
+            <img class="dub" src="https://vygo.com.au/img/tutor_leaning_over.jpg" style="width: 100%" style="height: 100%" />
+
+
+        </div>
+
+    </div>
+    <br />
+    <div class="row second">
+        <div class="col-lg-6 text-white showcase-img">
+            <img class="dub" src="http://www.wafb.com/resizer/8lb97p09NXuKmkjFoYh6TG4SpNk=/1200x600/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/7EU5KBAIEZDXNJA4JIAEISTHAA.jpg" style="width: 100%" style="height: 100%" />
+
+        </div>
+        <div class="col-lg-6 my-auto showcase-text ">
+            <h5>Campus in focus</h5>
+            <p class="lead mb-0">Currently planned out foe Southeastern Louisiana University, We want to make this website available for all types of educational institutions.</p>
+        </div>
+    </div>
+    <br />
+    <br />
+    <div class="row">
+        <div class="col-lg-6 h-100 text-center text-lg-left my-auto">
+            <ul class="list-inline-item">
+                <li class="list-inline-item">
+                    <a href="@Url.Action("About", "Home")">About</a>
+                </li>
+                <li class="list-inline-item">.</li>
+                <li class="list-inline-item">
+                    <a href="">Contacts</a>
+                </li>
+                <li class="list-inline-item">.</li>
+                <li class="list-inline-item">
+                    <a href="@Url.Action("Contact", "Home")"> Terms and Conditions</a>
+                </li>
+                <li class="list-inline-item">.</li>
+                <li class="list-inline-item">
+                    <a href="#">Privacy Policy</a>
+                </li>
+            </ul>
+        </div>
+        <div class="col-lg-6 h-100 text-center text-lg-right my-auto">
+            <ul class="list inline mb-0">
+                <li class="list-inline-item mr-3">
+                    <a href="#">
+                        <i class="fab fa-facebook fa-2x fa-fw">
+
+                        </i>
+                    </a>
+                </li>
+                <li class="list-inline-item mr-3">
+                    <a href="#">
+                        <i class="fab fa-twitter-square fa-2x fa-fw">
+
+                        </i>
+                    </a>
+                </li>
+                <li class="list-inline-item mr-3">
+                    <a href="#">
+                        <i class="fab fa-instagram fa-2x fa-fw">
+
+                        </i>
+                    </a>
+                </li>
+
+            </ul>
+        </div>
+    </div>
+
+    <script>
+        var slideIndex = 1;
+        showDivs(slideIndex);
+
+        function plusDivs(n) {
+            showDivs(slideIndex += n);
+        }
+
+        function currentDiv(n) {
+            showDivs(slideIndex = n);
+        }
+
+        function showDivs(n) {
+            var i;
+            var x = document.getElementsByClassName("mySlides");
+            var dots = document.getElementsByClassName("demo");
+            if (n > x.length) { slideIndex = 1 }
+            if (n < 1) { slideIndex = x.length }
+            for (i = 0; i < x.length; i++) {
+                x[i].style.display = "none";
+            }
+            for (i = 0; i < dots.length; i++) {
+                dots[i].className = dots[i].className.replace(" w3-white", "");
+            }
+            x[slideIndex - 1].style.display = "block";
+            dots[slideIndex - 1].className += " w3-white";
+        }
+    </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <style>
+        .mySlides {
+            display: block;
+            height: 600px;
+            min-width: 100%;
+            width: 100%;
+            max-width: 100%;
+            line-height: 1;
+        }
+
+        .w3-left, .w3-right, .w3-badge {
+            cursor: pointer
+        }
+
+        .w3-badge {
+            height: 13px;
+            width: 13px;
+            padding: 0
+        }
+    </style>
+
+
+}

@@ -1,0 +1,56 @@
+﻿@model IEnumerable<Services.Models.Service>
+@{
+    ViewBag.Title = "MydashBoard";
+}
+
+<h2>MydashBoard</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.servicetype.Servicekind)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Desription)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Startdate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Enddate)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.servicetype.Servicekind)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Desription)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Startdate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Enddate)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.ID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.ID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.ID })
+            </td>
+        </tr>
+    }
+
+</table>
+<a href="@Url.Action("Create", "Services")" class="btn btn-block btn-warning" style="font-size: 25px;"><i class="fas fa-plus"></i> Create One</a>
+<a href="@Url.Action("Index", "Home")" class="btn btn-block btn-warning" style="font-size: 25px;"><i class="fas fa-plus"></i> Go back</a>

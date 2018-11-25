@@ -1,0 +1,59 @@
+﻿@model IEnumerable<Services.Models.Service>
+
+@{
+    ViewBag.Title = "Offered";
+}
+
+<h2>Offered</h2>
+
+<div class="serve">
+    <h1 class="text-center"> Recent Recent Services </h1>
+    <hr />
+
+ 
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Desription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Startdate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Enddate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ApplicationUser.Email)
+            </th>
+            <th></th>
+        </tr>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Desription)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Startdate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Enddate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ApplicationUser.Email)
+            </td>
+
+        </tr>
+        }
+    </table>
+    
+    <a href="@Url.Action("Index", "Home")" class="btn btn-block btn-warning" style="font-size: 25px;"><i class="fas fa-plus"></i> Go back</a>
+</div>
+
+

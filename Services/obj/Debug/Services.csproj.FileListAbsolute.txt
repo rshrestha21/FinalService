@@ -1,0 +1,806 @@
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/ApplicationInsights.config
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/roslyn/csc.exe
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/roslyn/csc.exe.config
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/roslyn/csc.rsp
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/roslyn/csi.exe
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/roslyn/csi.rsp
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/roslyn/Microsoft.CodeAnalysis.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/roslyn/Microsoft.CSharp.Core.targets
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/roslyn/Microsoft.VisualBasic.Core.targets
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/roslyn/System.AppContext.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/roslyn/System.Collections.Immutable.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/roslyn/System.Diagnostics.StackTrace.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/roslyn/System.IO.FileSystem.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/roslyn/System.IO.FileSystem.Primitives.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/roslyn/System.Reflection.Metadata.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/roslyn/vbc.exe
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/roslyn/vbc.exe.config
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/roslyn/vbc.rsp
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/roslyn/VBCSCompiler.exe
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/roslyn/VBCSCompiler.exe.config
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Services.dll.config
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Services.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Services.pdb
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Antlr3.Runtime.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/EntityFramework.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/EntityFramework.SqlServer.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.AI.Agent.Intercept.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.AI.DependencyCollector.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.AI.PerfCounterCollector.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.AI.ServerTelemetryChannel.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.AI.Web.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.AI.WindowsServer.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.ApplicationInsights.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.AspNet.Identity.Core.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.AspNet.Identity.EntityFramework.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.AspNet.Identity.Owin.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.Owin.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.Owin.Host.SystemWeb.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.Owin.Security.Cookies.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.Owin.Security.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.Owin.Security.Facebook.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.Owin.Security.Google.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.Owin.Security.MicrosoftAccount.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.Owin.Security.OAuth.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.Owin.Security.Twitter.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.Web.Infrastructure.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Newtonsoft.Json.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Owin.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/System.Web.Helpers.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/System.Web.Mvc.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/System.Web.Optimization.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/System.Web.Razor.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/System.Web.WebPages.Deployment.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/System.Web.WebPages.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/System.Web.WebPages.Razor.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/WebGrease.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/System.Web.Helpers.xml
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/System.Web.Mvc.xml
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/System.Web.Optimization.xml
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/System.Web.Razor.xml
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/System.Web.WebPages.xml
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/System.Web.WebPages.Deployment.xml
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/System.Web.WebPages.Razor.xml
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Antlr3.Runtime.pdb
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Newtonsoft.Json.xml
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/EntityFramework.xml
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/EntityFramework.SqlServer.xml
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.AspNet.Identity.Core.xml
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.AspNet.Identity.Owin.xml
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.AspNet.Identity.EntityFramework.xml
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.Owin.xml
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.Owin.Host.SystemWeb.xml
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.Owin.Security.xml
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.Owin.Security.Facebook.xml
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.Owin.Security.Cookies.xml
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.Owin.Security.OAuth.xml
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.Owin.Security.Google.xml
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.Owin.Security.Twitter.xml
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.Owin.Security.MicrosoftAccount.xml
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.ApplicationInsights.xml
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.AI.DependencyCollector.xml
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.AI.ServerTelemetryChannel.xml
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.AI.WindowsServer.xml
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/bin/Microsoft.AI.Web.xml
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/obj/Debug/Services.csprojResolveAssemblyReference.cache
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/obj/Debug/Services.dll
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/obj/Debug/Services.pdb
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/obj/Debug/Services.Migrations.UserandService.resources
+c:/users/ronit shrestha/documents/visual studio 2017/Projects/Services/Services/obj/Debug/Services.csproj.GenerateResource.Cache
+C:/Users/Ronit Shrestha/Documents/Visual Studio 2017/Projects/Services/Services/obj/Debug/Services.Migrations.addedUsernameandpassword.resources
+C:/Users/Ronit Shrestha/Documents/Visual Studio 2017/Projects/Services/Services/obj/Debug/Services.Migrations.Servicetypeadded.resources
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/ApplicationInsights.config
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/roslyn/csc.exe
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/roslyn/csc.exe.config
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/roslyn/csc.rsp
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/roslyn/csi.exe
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/roslyn/csi.rsp
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/roslyn/System.AppContext.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/roslyn/vbc.exe
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/roslyn/vbc.exe.config
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/roslyn/vbc.rsp
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/roslyn/VBCSCompiler.exe
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Services.dll.config
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Services.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Services.pdb
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Antlr3.Runtime.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/EntityFramework.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/EntityFramework.SqlServer.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.AI.Agent.Intercept.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.AI.DependencyCollector.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.AI.PerfCounterCollector.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.AI.ServerTelemetryChannel.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.AI.Web.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.AI.WindowsServer.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.ApplicationInsights.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.AspNet.Identity.Core.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.AspNet.Identity.EntityFramework.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.AspNet.Identity.Owin.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.Owin.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.Owin.Host.SystemWeb.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.Owin.Security.Cookies.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.Owin.Security.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.Owin.Security.Facebook.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.Owin.Security.Google.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.Owin.Security.MicrosoftAccount.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.Owin.Security.OAuth.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.Owin.Security.Twitter.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Newtonsoft.Json.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Owin.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/System.Web.Helpers.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/System.Web.Mvc.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/System.Web.Optimization.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/System.Web.Razor.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/System.Web.WebPages.Deployment.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/System.Web.WebPages.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/System.Web.WebPages.Razor.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/WebGrease.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/System.Web.Helpers.xml
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/System.Web.Mvc.xml
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/System.Web.Optimization.xml
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/System.Web.Razor.xml
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/System.Web.WebPages.xml
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/System.Web.WebPages.Deployment.xml
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/System.Web.WebPages.Razor.xml
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Antlr3.Runtime.pdb
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Newtonsoft.Json.xml
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/EntityFramework.xml
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/EntityFramework.SqlServer.xml
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.AspNet.Identity.Core.xml
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.AspNet.Identity.Owin.xml
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.AspNet.Identity.EntityFramework.xml
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.Owin.xml
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.Owin.Host.SystemWeb.xml
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.Owin.Security.xml
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.Owin.Security.Facebook.xml
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.Owin.Security.Cookies.xml
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.Owin.Security.OAuth.xml
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.Owin.Security.Google.xml
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.Owin.Security.Twitter.xml
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.Owin.Security.MicrosoftAccount.xml
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.ApplicationInsights.xml
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.AI.DependencyCollector.xml
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.AI.ServerTelemetryChannel.xml
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.AI.WindowsServer.xml
+C:/Users/Biraj/Desktop/cmps_285/285/Services/bin/Microsoft.AI.Web.xml
+C:/Users/Biraj/Desktop/cmps_285/285/Services/obj/Debug/Services.csprojAssemblyReference.cache
+C:/Users/Biraj/Desktop/cmps_285/285/Services/obj/Debug/Services.csproj.CoreCompileInputs.cache
+C:/Users/Biraj/Desktop/cmps_285/285/Services/obj/Debug/Services.csproj.CopyComplete
+C:/Users/Biraj/Desktop/cmps_285/285/Services/obj/Debug/Services.dll
+C:/Users/Biraj/Desktop/cmps_285/285/Services/obj/Debug/Services.pdb
+C:/Users/Biraj/Desktop/cmps_285/285/Services/obj/Debug/Services.Migrations.init.resources
+C:/Users/Biraj/Desktop/cmps_285/285/Services/obj/Debug/Services.csproj.GenerateResource.cache
+/Users/birajtiwari/Downloads/285/Services/bin/ApplicationInsights.config
+/Users/birajtiwari/Downloads/285/Services/bin/roslyn/csc.exe
+/Users/birajtiwari/Downloads/285/Services/bin/roslyn/csc.exe.config
+/Users/birajtiwari/Downloads/285/Services/bin/roslyn/csc.rsp
+/Users/birajtiwari/Downloads/285/Services/bin/roslyn/csi.exe
+/Users/birajtiwari/Downloads/285/Services/bin/roslyn/csi.rsp
+/Users/birajtiwari/Downloads/285/Services/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/birajtiwari/Downloads/285/Services/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/birajtiwari/Downloads/285/Services/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/birajtiwari/Downloads/285/Services/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/birajtiwari/Downloads/285/Services/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/birajtiwari/Downloads/285/Services/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/birajtiwari/Downloads/285/Services/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/birajtiwari/Downloads/285/Services/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/birajtiwari/Downloads/285/Services/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/birajtiwari/Downloads/285/Services/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/birajtiwari/Downloads/285/Services/bin/roslyn/System.AppContext.dll
+/Users/birajtiwari/Downloads/285/Services/bin/roslyn/System.Collections.Immutable.dll
+/Users/birajtiwari/Downloads/285/Services/bin/roslyn/System.Diagnostics.StackTrace.dll
+/Users/birajtiwari/Downloads/285/Services/bin/roslyn/System.IO.FileSystem.dll
+/Users/birajtiwari/Downloads/285/Services/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/Users/birajtiwari/Downloads/285/Services/bin/roslyn/System.Reflection.Metadata.dll
+/Users/birajtiwari/Downloads/285/Services/bin/roslyn/vbc.exe
+/Users/birajtiwari/Downloads/285/Services/bin/roslyn/vbc.exe.config
+/Users/birajtiwari/Downloads/285/Services/bin/roslyn/vbc.rsp
+/Users/birajtiwari/Downloads/285/Services/bin/roslyn/VBCSCompiler.exe
+/Users/birajtiwari/Downloads/285/Services/bin/roslyn/VBCSCompiler.exe.config
+/Users/birajtiwari/Downloads/285/Services/bin/Services.dll
+/Users/birajtiwari/Downloads/285/Services/bin/Services.pdb
+/Users/birajtiwari/Downloads/285/Services/bin/Antlr3.Runtime.dll
+/Users/birajtiwari/Downloads/285/Services/bin/EntityFramework.dll
+/Users/birajtiwari/Downloads/285/Services/bin/EntityFramework.SqlServer.dll
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.AI.Agent.Intercept.dll
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.AI.DependencyCollector.dll
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.AI.PerfCounterCollector.dll
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.AI.ServerTelemetryChannel.dll
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.AI.Web.dll
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.AI.WindowsServer.dll
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.ApplicationInsights.dll
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.AspNet.Identity.Core.dll
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.AspNet.Identity.EntityFramework.dll
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.AspNet.Identity.Owin.dll
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.Owin.dll
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.Owin.Host.SystemWeb.dll
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.Owin.Security.Cookies.dll
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.Owin.Security.dll
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.Owin.Security.Facebook.dll
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.Owin.Security.Google.dll
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.Owin.Security.MicrosoftAccount.dll
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.Owin.Security.OAuth.dll
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.Owin.Security.Twitter.dll
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.Web.Infrastructure.dll
+/Users/birajtiwari/Downloads/285/Services/bin/Newtonsoft.Json.dll
+/Users/birajtiwari/Downloads/285/Services/bin/Owin.dll
+/Users/birajtiwari/Downloads/285/Services/bin/System.Web.Helpers.dll
+/Users/birajtiwari/Downloads/285/Services/bin/System.Web.Mvc.dll
+/Users/birajtiwari/Downloads/285/Services/bin/System.Web.Optimization.dll
+/Users/birajtiwari/Downloads/285/Services/bin/System.Web.Razor.dll
+/Users/birajtiwari/Downloads/285/Services/bin/System.Web.WebPages.Deployment.dll
+/Users/birajtiwari/Downloads/285/Services/bin/System.Web.WebPages.dll
+/Users/birajtiwari/Downloads/285/Services/bin/System.Web.WebPages.Razor.dll
+/Users/birajtiwari/Downloads/285/Services/bin/WebGrease.dll
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/birajtiwari/Downloads/285/Services/bin/System.Web.Helpers.xml
+/Users/birajtiwari/Downloads/285/Services/bin/System.Web.Mvc.xml
+/Users/birajtiwari/Downloads/285/Services/bin/System.Web.Optimization.xml
+/Users/birajtiwari/Downloads/285/Services/bin/System.Web.Razor.xml
+/Users/birajtiwari/Downloads/285/Services/bin/System.Web.WebPages.xml
+/Users/birajtiwari/Downloads/285/Services/bin/System.Web.WebPages.Deployment.xml
+/Users/birajtiwari/Downloads/285/Services/bin/System.Web.WebPages.Razor.xml
+/Users/birajtiwari/Downloads/285/Services/bin/Antlr3.Runtime.pdb
+/Users/birajtiwari/Downloads/285/Services/bin/Newtonsoft.Json.xml
+/Users/birajtiwari/Downloads/285/Services/bin/EntityFramework.xml
+/Users/birajtiwari/Downloads/285/Services/bin/EntityFramework.SqlServer.xml
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.AspNet.Identity.Core.xml
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.AspNet.Identity.Owin.xml
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.AspNet.Identity.EntityFramework.xml
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.Owin.xml
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.Owin.Host.SystemWeb.xml
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.Owin.Security.xml
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.Owin.Security.Facebook.xml
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.Owin.Security.Cookies.xml
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.Owin.Security.OAuth.xml
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.Owin.Security.Google.xml
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.Owin.Security.Twitter.xml
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.Owin.Security.MicrosoftAccount.xml
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.ApplicationInsights.xml
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.AI.DependencyCollector.xml
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.AI.ServerTelemetryChannel.xml
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.AI.WindowsServer.xml
+/Users/birajtiwari/Downloads/285/Services/bin/Microsoft.AI.Web.xml
+/Users/birajtiwari/Downloads/285/Services/obj/Debug/Services.csprojAssemblyReference.cache
+/Users/birajtiwari/Downloads/285/Services/obj/Debug/Services.Migrations.init.resources
+/Users/birajtiwari/Downloads/285/Services/obj/Debug/Services.csproj.GenerateResource.cache
+/Users/birajtiwari/Downloads/285/Services/obj/Debug/Services.csproj.CoreCompileInputs.cache
+/Users/birajtiwari/Downloads/285/Services/obj/Debug/Services.csproj.CopyComplete
+/Users/birajtiwari/Downloads/285/Services/obj/Debug/Services.dll
+/Users/birajtiwari/Downloads/285/Services/obj/Debug/Services.pdb
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\ApplicationInsights.config
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\roslyn\csc.exe
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\roslyn\csc.exe.config
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\roslyn\csc.rsp
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\roslyn\csi.exe
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\roslyn\csi.rsp
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\roslyn\System.AppContext.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\roslyn\System.Collections.Immutable.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\roslyn\System.IO.FileSystem.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\roslyn\System.Reflection.Metadata.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\roslyn\vbc.exe
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\roslyn\vbc.exe.config
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\roslyn\vbc.rsp
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\roslyn\VBCSCompiler.exe
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\roslyn\VBCSCompiler.exe.config
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Services.dll.config
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Services.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Services.pdb
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Antlr3.Runtime.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\EntityFramework.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\EntityFramework.SqlServer.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.AI.Agent.Intercept.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.AI.DependencyCollector.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.AI.Web.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.AI.WindowsServer.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.ApplicationInsights.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.AspNet.Identity.Core.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.Owin.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.Owin.Security.Cookies.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.Owin.Security.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.Owin.Security.Facebook.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.Owin.Security.Google.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.Owin.Security.OAuth.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.Owin.Security.Twitter.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.Web.Infrastructure.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Newtonsoft.Json.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Owin.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\System.Web.Helpers.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\System.Web.Mvc.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\System.Web.Optimization.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\System.Web.Razor.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\System.Web.WebPages.Deployment.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\System.Web.WebPages.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\System.Web.WebPages.Razor.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\WebGrease.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\System.Web.Helpers.xml
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\System.Web.Mvc.xml
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\System.Web.Optimization.xml
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\System.Web.Razor.xml
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\System.Web.WebPages.xml
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\System.Web.WebPages.Deployment.xml
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\System.Web.WebPages.Razor.xml
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Antlr3.Runtime.pdb
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Newtonsoft.Json.xml
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\EntityFramework.xml
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\EntityFramework.SqlServer.xml
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.AspNet.Identity.Core.xml
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.Owin.xml
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.Owin.Security.xml
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.Owin.Security.Facebook.xml
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.Owin.Security.Cookies.xml
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.Owin.Security.OAuth.xml
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.Owin.Security.Google.xml
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.Owin.Security.Twitter.xml
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.ApplicationInsights.xml
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.AI.DependencyCollector.xml
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.AI.WindowsServer.xml
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\bin\Microsoft.AI.Web.xml
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\obj\Debug\Services.csprojAssemblyReference.cache
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\obj\Debug\Services.Migrations.init.resources
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\obj\Debug\Services.csproj.GenerateResource.cache
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\obj\Debug\Services.csproj.CopyComplete
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\obj\Debug\Services.dll
+D:\285\naya1\285_02-Fall-2018---Group-3-master\CMPS285-Group3\Services\obj\Debug\Services.pdb
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\ApplicationInsights.config
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\roslyn\csc.exe
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\roslyn\csc.exe.config
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\roslyn\csc.rsp
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\roslyn\csi.exe
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\roslyn\csi.rsp
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\roslyn\System.AppContext.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\roslyn\vbc.exe
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\roslyn\vbc.exe.config
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\roslyn\vbc.rsp
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\roslyn\VBCSCompiler.exe
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Services.dll.config
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Services.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Services.pdb
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Antlr3.Runtime.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\EntityFramework.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\EntityFramework.SqlServer.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AI.Web.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.ApplicationInsights.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Newtonsoft.Json.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Owin.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\System.Web.Helpers.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\System.Web.Mvc.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\System.Web.Optimization.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\System.Web.Razor.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\System.Web.WebPages.Deployment.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\System.Web.WebPages.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\System.Web.WebPages.Razor.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\WebGrease.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\System.Web.Helpers.xml
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\System.Web.Mvc.xml
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\System.Web.Optimization.xml
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\System.Web.Razor.xml
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\System.Web.WebPages.xml
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\System.Web.WebPages.Deployment.xml
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\System.Web.WebPages.Razor.xml
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Antlr3.Runtime.pdb
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Newtonsoft.Json.xml
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\EntityFramework.xml
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\EntityFramework.SqlServer.xml
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.xml
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.xml
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.ApplicationInsights.xml
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AI.Web.xml
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\obj\Debug\Services.Migrations.init.resources
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\obj\Debug\Services.csproj.GenerateResource.cache
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\obj\Debug\Services.dll
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\obj\Debug\Services.pdb
+C:\Users\shawn\Documents\GitHub\Latest\285_02-Fall-2018---Group-3\Services\obj\Debug\Services.Migrations.changes.resources
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\ApplicationInsights.config
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\roslyn\csc.exe
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\roslyn\csc.exe.config
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\roslyn\csc.rsp
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\roslyn\csi.exe
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\roslyn\csi.rsp
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\roslyn\System.AppContext.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\roslyn\vbc.exe
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\roslyn\vbc.exe.config
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\roslyn\vbc.rsp
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\roslyn\VBCSCompiler.exe
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Services.dll.config
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Services.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Services.pdb
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Antlr3.Runtime.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\EntityFramework.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\EntityFramework.SqlServer.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AI.Web.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.ApplicationInsights.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Newtonsoft.Json.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Owin.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\System.Web.Helpers.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\System.Web.Mvc.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\System.Web.Optimization.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\System.Web.Razor.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\System.Web.WebPages.Deployment.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\System.Web.WebPages.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\System.Web.WebPages.Razor.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\WebGrease.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\System.Web.Helpers.xml
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\System.Web.Mvc.xml
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\System.Web.Optimization.xml
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\System.Web.Razor.xml
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\System.Web.WebPages.xml
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\System.Web.WebPages.Deployment.xml
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\System.Web.WebPages.Razor.xml
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Antlr3.Runtime.pdb
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Newtonsoft.Json.xml
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\EntityFramework.xml
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\EntityFramework.SqlServer.xml
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.xml
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.xml
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.ApplicationInsights.xml
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AI.Web.xml
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\obj\Debug\Services.Migrations.init.resources
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\obj\Debug\Services.Migrations.changes.resources
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\obj\Debug\Services.csproj.GenerateResource.cache
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\obj\Debug\Services.dll
+C:\Users\shawn\Desktop\285_02-Fall-2018---Group-3\Services\obj\Debug\Services.pdb
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\ApplicationInsights.config
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\roslyn\csc.exe
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\roslyn\csc.exe.config
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\roslyn\csc.rsp
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\roslyn\csi.exe
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\roslyn\csi.rsp
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\roslyn\System.AppContext.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\roslyn\vbc.exe
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\roslyn\vbc.exe.config
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\roslyn\vbc.rsp
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\roslyn\VBCSCompiler.exe
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Services.dll.config
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Services.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Services.pdb
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Antlr3.Runtime.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\EntityFramework.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\EntityFramework.SqlServer.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AI.Web.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.ApplicationInsights.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Newtonsoft.Json.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Owin.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\System.Web.Helpers.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\System.Web.Mvc.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\System.Web.Optimization.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\System.Web.Razor.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\System.Web.WebPages.Deployment.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\System.Web.WebPages.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\System.Web.WebPages.Razor.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\WebGrease.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\System.Web.Helpers.xml
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\System.Web.Mvc.xml
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\System.Web.Optimization.xml
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\System.Web.Razor.xml
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\System.Web.WebPages.xml
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\System.Web.WebPages.Deployment.xml
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\System.Web.WebPages.Razor.xml
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Antlr3.Runtime.pdb
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Newtonsoft.Json.xml
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\EntityFramework.xml
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\EntityFramework.SqlServer.xml
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.xml
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.xml
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.ApplicationInsights.xml
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\bin\Microsoft.AI.Web.xml
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\obj\Debug\Services.Migrations.init.resources
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\obj\Debug\Services.Migrations.changes.resources
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\obj\Debug\Services.csproj.GenerateResource.cache
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\obj\Debug\Services.dll
+C:\Users\yunju\Desktop\project1\285_02-Fall-2018---Group-3\Services\obj\Debug\Services.pdb
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\ApplicationInsights.config
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\roslyn\csc.exe
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\roslyn\csc.exe.config
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\roslyn\csc.rsp
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\roslyn\csi.exe
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\roslyn\csi.rsp
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\roslyn\System.AppContext.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\roslyn\vbc.exe
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\roslyn\vbc.exe.config
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\roslyn\vbc.rsp
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\roslyn\VBCSCompiler.exe
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Services.dll.config
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Services.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Services.pdb
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Antlr3.Runtime.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\EntityFramework.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\EntityFramework.SqlServer.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.AI.Web.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.Owin.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.Owin.Security.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Newtonsoft.Json.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Owin.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\System.Web.Helpers.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\System.Web.Mvc.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\System.Web.Optimization.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\System.Web.Razor.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\System.Web.WebPages.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\System.Web.WebPages.Razor.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\WebGrease.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\System.Web.Helpers.xml
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\System.Web.Mvc.xml
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\System.Web.Optimization.xml
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\System.Web.Razor.xml
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\System.Web.WebPages.xml
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\System.Web.WebPages.Razor.xml
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Antlr3.Runtime.pdb
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Newtonsoft.Json.xml
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\EntityFramework.xml
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\EntityFramework.SqlServer.xml
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.Owin.xml
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.Owin.Security.xml
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\bin\Microsoft.AI.Web.xml
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\obj\Debug\Services.Migrations.init.resources
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\obj\Debug\Services.Migrations.changes.resources
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\obj\Debug\Services.csproj.GenerateResource.cache
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\obj\Debug\Services.dll
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\obj\Debug\Services.pdb
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\obj\Debug\Services.Migrations.ServicetypeID.resources
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\obj\Debug\Services.Migrations.onetomany.resources
+C:\Users\Avishkar\Desktop\285_02-Fall-2018---Group-3-master (8)\285_02-Fall-2018---Group-3-master\Services\obj\Debug\Services.Migrations.applicationuseraddedandrelationship.resources
